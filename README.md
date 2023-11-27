@@ -1,7 +1,7 @@
 # [NeurIPS Citylearn Challenge](https://www.aicrowd.com/challenges/neurips-2022-citylearn-challenge)
 
 
-This repository contains the project for the Collaborative AI class which was to find solution for the NeurIPS  Citylearn Challenge.
+This repository contains the project for the Collaborative AI class(263303)  which was to find solution for the NeurIPS  Citylearn Challenge.
 
 #  Competition Overview
 [The CityLearn Challenge 2022](https://www.aicrowd.com/challenges/neurips-2022-citylearn-challenge) focuses on the opportunity brought on by home battery storage devices and photovoltaics. It leverages [CityLearn](https://github.com/intelligent-environments-lab/CityLearn/tree/citylearn_2022), a Gym Environment for building distributed energy resource management and demand response. The challenge utilizes 1 year of operational electricity demand and PV generation data from 17 single-family buildings in the Sierra Crest home development in Fontana, California, that were studied for _Grid integration of zero net energy communities_.
