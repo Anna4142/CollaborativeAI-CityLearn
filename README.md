@@ -1,4 +1,4 @@
-# [NeurIPS 2022 Citylearn Challenge](https://www.aicrowd.com/challenges/neurips-2022-citylearn-challenge)
+# [NeurIPS Citylearn Challenge](https://www.aicrowd.com/challenges/neurips-2022-citylearn-challenge)
 
 
 This repository contains the project for the Collaborative AI class which was to find solution for the NeurIPS  Citylearn Challenge.
@@ -16,20 +16,16 @@ In the single-agent scenario, we have used the DDPG algorithm . Deep Determinist
 (DDPG) is an off-policy algorithm particularly well-suited for problems with continuous action spaces. It
 aims to concurrently learn an action-value function (Q-function) and a policy function.
 
-## Phase 2 and 3
+## Phase 2 
 For the centralized multi-agent scenario, we extend the DDPG framework [3]to create a centralized agent
 that manages multiple sub-agents. This centralized agent receives a global state and determines a joint
 action, which is then disseminated to each of the sub-agents.
 
-
+##Phase 3
 In the decentralized multi-agent scenario, we propose a hybrid approach that incorporates elements of both
 local and global decision-making. This approach utilizes a Deep Implicit Communication Network [4] that
 includes a Graph Convolutional Network (GCN) and a Transformer-based encoder for generating communication signals
 
-It is recommended to have a computer with
-* at least 64 GB of RAM
-* a CPU with at least 64 cores
-* a GPU with at least 12 GB of VRAM
 
 
 
