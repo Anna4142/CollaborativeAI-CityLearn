@@ -22,6 +22,8 @@ that manages multiple sub-agents. This centralized agent receives a global state
 action, which is then disseminated to each of the sub-agents.
 
 ##Phase 3
+
+
 In the decentralized multi-agent scenario, we propose a hybrid approach that incorporates elements of both
 local and global decision-making. This approach utilizes a Deep Implicit Communication Network [4] that
 includes a Graph Convolutional Network (GCN) and a Transformer-based encoder for generating communication signals
